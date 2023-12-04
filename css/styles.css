@@ -55,8 +55,8 @@
 }
 
 #bio-img {
-    width: 175px;
-    height: 200px;
+    width: 200px;
+    height: 240px;
     border-radius: 50%;
     margin-bottom: 25px;
 }
@@ -227,7 +227,7 @@
     line-height: 26px;
   }
 
-  #btn-project {
+  #btn-projects{
     margin: 20px auto;
   }
 
